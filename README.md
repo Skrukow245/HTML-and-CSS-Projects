@@ -5,7 +5,7 @@
 <h1> Projects</h1>
 <br>
 <nav>
-[Space Station Site](index.html
+<a href="index.html">Assignment</a>
 <br>
 [Movie Theatre Site](academy_cinemas.html)
  </nav>
