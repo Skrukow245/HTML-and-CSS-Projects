@@ -4,9 +4,11 @@
 <br>
 <h1> Projects</h1>
 <br>
-<a [Space Station Site](index.html></a>
+<nav>
+[Space Station Site](index.html
 <br>
 [Movie Theatre Site](academy_cinemas.html)
+ </nav>
 <br>
 <br>
 <h1> Space Station Site</h1>
