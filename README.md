@@ -2,18 +2,18 @@
 <p>This is a display of sample websites that I made using HTML and CSS.</p>
 <br>
 <br>
-<h1> Projects
+<h1> Projects</h1>
 <br>
-<p>[Space Station Site](index.html)
+<p>[Space Station Site](index.html)</p>
 <br>
-<p>[Movie Theatre Site](academy_cinemas.html)
+<p>[Movie Theatre Site](academy_cinemas.html)</p>
 <br>
 <br>
-<h1> Space Station Site
+<h1> Space Station Site</h1>
 <br>
-<p> This page is an example home page for a Space travel company. It's styled using CSS and contains a navbar, image containers, and a form.
-<h1> Movie Theatre Site
+<p> This page is an example home page for a Space travel company. It's styled using CSS and contains a navbar, image containers, and a form.</p>
+<h1> Movie Theatre Site</h1>
 <br>
-<p>This page is an example home page for a Movie theatre that is styled using Bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards, and dropdowns.
+<p>This page is an example home page for a Movie theatre that is styled using Bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards, and dropdowns.</p>
  
   
