@@ -1,5 +1,5 @@
-<h1> HTML and CSS Projects
-<p>This is a display of sample websites that I made using HTML and CSS.
+<h1> HTML and CSS Projects</h1>
+<p>This is a display of sample websites that I made using HTML and CSS.</p>
 <br>
 <br>
 <h1> Projects
