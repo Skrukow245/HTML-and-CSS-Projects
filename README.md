@@ -1,3 +1,7 @@
+@settings {
+  font-size: 100;
+}
+
 HTML and CSS Projects
 <br>
 This is a display of sample websites that I made using HTML and CSS.
