@@ -1,6 +1,4 @@
-@settings {
-  font-size: 100;
-}
+
 
 HTML and CSS Projects
 <br>
